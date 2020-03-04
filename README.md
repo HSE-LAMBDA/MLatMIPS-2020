@@ -18,4 +18,4 @@ At the seminar we'll go through the following two notebooks:
 ## Pytorch:
 
 At the seminar we'll go through the pytorch basics:
- - [Notebook](https://colab.research.google.com/github/HSE-LAMBDA/MLatMIPS-2020/blob/master/Seminar2/pytorch_answers.ipynb)
+ - [Notebook](https://colab.research.google.com/github/HSE-LAMBDA/MLatMIPS-2020/blob/master/Seminar_2/pytorch_answers.ipynb)
