@@ -13,3 +13,9 @@ For the practical part we are going to use Google Colab. In order to be able to 
 At the seminar we'll go through the following two notebooks:
  - [ML basics with linear models](https://colab.research.google.com/github/HSE-LAMBDA/MLatMIPS-2020/blob/master/Seminar/1_LinearModels_ToyData.ipynb)
  - [Working with LHCb data for particle identification](https://colab.research.google.com/github/HSE-LAMBDA/MLatMIPS-2020/blob/master/Seminar/2_LinearModels_LHCb_PID.ipynb)
+
+
+## Pytorch:
+
+At the seminar we'll go through the pytorch basics:
+ - [Notebook](https://colab.research.google.com/github/HSE-LAMBDA/MLatMIPS-2020/blob/master/Seminar2/pytorch_answers.ipynb)
